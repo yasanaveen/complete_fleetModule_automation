@@ -16,6 +16,9 @@ public class Tc0002FleetAddTyre extends BaseClass {
 		AddTyreObjects fl = new AddTyreObjects(driver);
 		fl.clickOnFleetModule();
 		log.info("Clicked on Fleet Module");
+		
+		fl.clk_addnewBtn();
+		log.info("clicked on add new button..");
 
 		fl.clickOnAddTyre();
 		log.info("Clicked on Add Tyre");

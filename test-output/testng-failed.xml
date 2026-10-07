@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.RouteAssignCardTest">
+      <class name="testCases.Tc0002FleetAddTyre">
         <methods>
           <include name="setUp"/>
+          <include name="FleetLandingPageTest"/>
           <include name="tearDown"/>
-          <include name="routeAssignTest"/>
         </methods>
-      </class> <!-- testCases.RouteAssignCardTest -->
+      </class> <!-- testCases.Tc0002FleetAddTyre -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

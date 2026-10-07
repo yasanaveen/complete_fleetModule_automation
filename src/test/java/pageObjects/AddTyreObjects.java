@@ -83,6 +83,13 @@ public class AddTyreObjects {
 
 		//btn_addneww.click();
 	} 
+	
+	public void clk_addnewBtn()
+	{
+		btn_addneww.click();
+	}
+	
+	
 
 	public void clickOnAddTyre() {
 		btn_addtyre.click();
