@@ -1,0 +1,12 @@
+2026-10-07 06:32:02 INFO  RouteMgmtTest:31 - Browser launched and navigated to login page
+2026-10-07 06:32:03 INFO  RouteMgmtTest:35 - Entered username and password
+2026-10-07 06:32:03 INFO  RouteMgmtTest:36 - Clicking on login button
+2026-10-07 06:32:04 INFO  RouteMgmtTest:16 - Clicked on Fleet Module
+2026-10-07 06:35:15 INFO  RouteAssignCardTest:31 - Browser launched and navigated to login page
+2026-10-07 06:35:16 INFO  RouteAssignCardTest:35 - Entered username and password
+2026-10-07 06:35:16 INFO  RouteAssignCardTest:36 - Clicking on login button
+2026-10-07 06:35:17 INFO  RouteAssignCardTest:14 - Clicked on Fleet Module
+2026-10-07 06:35:59 INFO  RouteAssignCardTest:31 - Browser launched and navigated to login page
+2026-10-07 06:36:00 INFO  RouteAssignCardTest:35 - Entered username and password
+2026-10-07 06:36:00 INFO  RouteAssignCardTest:36 - Clicking on login button
+2026-10-07 06:36:01 INFO  RouteAssignCardTest:15 - Clicked on Fleet Module
