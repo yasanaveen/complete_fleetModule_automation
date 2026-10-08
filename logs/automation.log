@@ -54,3 +54,75 @@
 2026-10-07 11:55:58 INFO  Tc0002FleetAddTyre:48 - Entered PO Number
 2026-10-07 11:55:59 INFO  Tc0002FleetAddTyre:50 - Entered Purchased Cost
 2026-10-07 11:55:59 INFO  Tc0002FleetAddTyre:52 - Scrolled down the page
+2026-10-07 12:13:34 INFO  Tc0002FleetAddTyre:31 - Browser launched and navigated to login page
+2026-10-07 12:13:34 INFO  Tc0002FleetAddTyre:35 - Entered username and password
+2026-10-07 12:13:34 INFO  Tc0002FleetAddTyre:36 - Clicking on login button
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:18 - Clicked on Fleet Module
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:20 - clicked on add new button..
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:22 - Clicked on Add Tyre
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:24 - Selected Manufacturer Name
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:26 - Entered Tyre Model
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:28 - Selected Model Year
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:30 - Entered Tyre Number
+2026-10-07 12:13:35 INFO  Tc0002FleetAddTyre:32 - Selected Tyre Size
+2026-10-07 12:13:36 INFO  Tc0002FleetAddTyre:34 - Selected Tyre Type
+2026-10-07 12:13:36 INFO  Tc0002FleetAddTyre:36 - Entered Warranty Months
+2026-10-07 12:13:36 INFO  Tc0002FleetAddTyre:38 - Entered Warranty Kms
+2026-10-07 12:13:36 INFO  Tc0002FleetAddTyre:40 - Selected Purchased By
+2026-10-07 12:13:36 INFO  Tc0002FleetAddTyre:42 - Entered PO Number
+2026-10-07 12:13:36 INFO  Tc0002FleetAddTyre:44 - Entered Purchased Cost
+2026-10-07 12:13:36 INFO  Tc0002FleetAddTyre:45 - Scrolled down the page
+2026-10-07 12:14:33 INFO  Tc0002FleetAddTyre:31 - Browser launched and navigated to login page
+2026-10-07 12:14:34 INFO  Tc0002FleetAddTyre:35 - Entered username and password
+2026-10-07 12:14:34 INFO  Tc0002FleetAddTyre:36 - Clicking on login button
+2026-10-07 12:14:34 INFO  Tc0002FleetAddTyre:18 - Clicked on Fleet Module
+2026-10-07 12:14:34 INFO  Tc0002FleetAddTyre:20 - clicked on add new button..
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:22 - Clicked on Add Tyre
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:24 - Selected Manufacturer Name
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:26 - Entered Tyre Model
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:28 - Selected Model Year
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:30 - Entered Tyre Number
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:32 - Selected Tyre Size
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:34 - Selected Tyre Type
+2026-10-07 12:14:35 INFO  Tc0002FleetAddTyre:36 - Entered Warranty Months
+2026-10-07 12:14:36 INFO  Tc0002FleetAddTyre:38 - Entered Warranty Kms
+2026-10-07 12:14:36 INFO  Tc0002FleetAddTyre:40 - Selected Purchased By
+2026-10-07 12:14:36 INFO  Tc0002FleetAddTyre:42 - Entered PO Number
+2026-10-07 12:14:36 INFO  Tc0002FleetAddTyre:44 - Entered Purchased Cost
+2026-10-07 12:14:36 INFO  Tc0002FleetAddTyre:46 - Scrolled down the page
+2026-10-07 12:14:52 INFO  Tc0002FleetAddTyre:31 - Browser launched and navigated to login page
+2026-10-07 12:14:52 INFO  Tc0002FleetAddTyre:35 - Entered username and password
+2026-10-07 12:14:52 INFO  Tc0002FleetAddTyre:36 - Clicking on login button
+2026-10-07 12:14:53 INFO  Tc0002FleetAddTyre:18 - Clicked on Fleet Module
+2026-10-07 12:14:53 INFO  Tc0002FleetAddTyre:20 - clicked on add new button..
+2026-10-07 12:14:53 INFO  Tc0002FleetAddTyre:22 - Clicked on Add Tyre
+2026-10-07 12:14:53 INFO  Tc0002FleetAddTyre:24 - Selected Manufacturer Name
+2026-10-07 12:14:53 INFO  Tc0002FleetAddTyre:26 - Entered Tyre Model
+2026-10-07 12:14:53 INFO  Tc0002FleetAddTyre:28 - Selected Model Year
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:30 - Entered Tyre Number
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:32 - Selected Tyre Size
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:34 - Selected Tyre Type
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:36 - Entered Warranty Months
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:38 - Entered Warranty Kms
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:40 - Selected Purchased By
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:42 - Entered PO Number
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:44 - Entered Purchased Cost
+2026-10-07 12:14:54 INFO  Tc0002FleetAddTyre:46 - Scrolled down the page
+2026-10-07 12:18:00 INFO  Tc0002FleetAddTyre:31 - Browser launched and navigated to login page
+2026-10-07 12:18:01 INFO  Tc0002FleetAddTyre:35 - Entered username and password
+2026-10-07 12:18:01 INFO  Tc0002FleetAddTyre:36 - Clicking on login button
+2026-10-07 12:18:01 INFO  Tc0002FleetAddTyre:18 - Clicked on Fleet Module
+2026-10-07 12:18:01 INFO  Tc0002FleetAddTyre:20 - clicked on add new button..
+2026-10-07 12:18:01 INFO  Tc0002FleetAddTyre:22 - Clicked on Add Tyre
+2026-10-07 12:18:02 INFO  Tc0002FleetAddTyre:24 - Selected Manufacturer Name
+2026-10-07 12:18:02 INFO  Tc0002FleetAddTyre:26 - Entered Tyre Model
+2026-10-07 12:18:02 INFO  Tc0002FleetAddTyre:28 - Selected Model Year
+2026-10-07 12:18:02 INFO  Tc0002FleetAddTyre:30 - Entered Tyre Number
+2026-10-07 12:18:02 INFO  Tc0002FleetAddTyre:32 - Selected Tyre Size
+2026-10-07 12:18:02 INFO  Tc0002FleetAddTyre:34 - Selected Tyre Type
+2026-10-07 12:18:02 INFO  Tc0002FleetAddTyre:36 - Entered Warranty Months
+2026-10-07 12:18:03 INFO  Tc0002FleetAddTyre:38 - Entered Warranty Kms
+2026-10-07 12:18:03 INFO  Tc0002FleetAddTyre:40 - Selected Purchased By
+2026-10-07 12:18:03 INFO  Tc0002FleetAddTyre:42 - Entered PO Number
+2026-10-07 12:18:03 INFO  Tc0002FleetAddTyre:44 - Entered Purchased Cost
+2026-10-07 12:18:03 INFO  Tc0002FleetAddTyre:46 - Scrolled down the page

@@ -20,8 +20,6 @@ public class FleetMgmtAssignDriverObjects {
 	@FindBy(xpath = "//*[contains(@class,'optionDelay1__cab5I')]")
 	WebElement clk_assignDriver;
 
-	
-
 	// Branch dropdown
 	@FindBy(name = "branch")
 	WebElement branch;
@@ -41,7 +39,7 @@ public class FleetMgmtAssignDriverObjects {
 	// Remarks textarea
 	@FindBy(name = "remarks")
 	WebElement remarks;
-	
+
 	public void clkfleetMgmtCard() {
 		clkfleetmgmt.click();
 	}

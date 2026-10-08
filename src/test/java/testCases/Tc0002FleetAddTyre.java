@@ -16,13 +16,10 @@ public class Tc0002FleetAddTyre extends BaseClass {
 		AddTyreObjects fl = new AddTyreObjects(driver);
 		fl.clickOnFleetModule();
 		log.info("Clicked on Fleet Module");
-		
 		fl.clk_addnewBtn();
 		log.info("clicked on add new button..");
-
 		fl.clickOnAddTyre();
 		log.info("Clicked on Add Tyre");
-
 		fl.selectManufacturerName("MRF TYRES");
 		log.info("Selected Manufacturer Name");
 		fl.enterTyreModel("MRF123");
@@ -31,13 +28,10 @@ public class Tc0002FleetAddTyre extends BaseClass {
 		log.info("Selected Model Year");
 		fl.enterTyreNo("TYRE123");
 		log.info("Entered Tyre Number");
-
 		fl.selectTyreSize();
 		log.info("Selected Tyre Size");
-
 		fl.selectTyreType();
 		log.info("Selected Tyre Type");
-
 		fl.enterWarrantyMonths("24");
 		log.info("Entered Warranty Months");
 		fl.enterWarrantyKms("500");
@@ -48,12 +42,12 @@ public class Tc0002FleetAddTyre extends BaseClass {
 		log.info("Entered PO Number");
 		fl.enterPurchasedCost("1000");
 		log.info("Entered Purchased Cost");
-		
+		scrollDown(800);
 		log.info("Scrolled down the page");
 		fl.selectVendorName();
 		log.info("Selected Vendor Name");
-		
-		//*[@name='specifications']
+
+		// *[@name='specifications']
 
 		System.out.println("************ completed TC_0002FleetLandingPageTestclass***********");
 	}
